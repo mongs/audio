@@ -5,22 +5,21 @@
         "name": "菊花台",
         "type": "专辑",
         "time": "5.04",
-        "src": "http://yinyueshiting.baidu.com/data2/music/42783748/42783748.mp3?xcode=d702f6a952c356e6bd5cc648288db746"
-
+        "src": "/static/audio/海阔天空.mp3"
       },
       {
         "id": 2,
         "name": "桃花源",
         "type": "专辑",
         "time": "5.00",
-        "src": "http://yinyueshiting.baidu.com/data2/music/42783748/42783748.mp3?xcode=d702f6a952c356e6bd5cc648288db746"
+        "src": "/static/audio/海阔天空.mp3"
       },
       {
         "id": 3,
         "name": "董小姐",
         "type": "专辑",
         "time": "4.00",
-        "src": "http://yinyueshiting.baidu.com/data2/music/42783748/42783748.mp3?xcode=d702f6a952c356e6bd5cc648288db746"
+        "src": "/static/audio/海阔天空.mp3"
       }
     ],
     "music": [{
@@ -28,19 +27,19 @@
       "name": "菊花台",
       "type": "音乐",
       "time": "5.04",
-      "src": "http://yinyueshiting.baidu.com/data2/music/42783748/42783748.mp3?xcode=d702f6a952c356e6bd5cc648288db746"
+      "src": "/static/audio/海阔天空.mp3"
     }, {
       "id": 2,
       "name": "桃花源",
       "type": "音乐",
       "time": "5.00",
-      "src": "http://yinyueshiting.baidu.com/data2/music/42783748/42783748.mp3?xcode=d702f6a952c356e6bd5cc648288db746"
+      "src": "/static/audio/海阔天空.mp3"
     }, {
       "id": 3,
       "name": "董小姐",
       "type": "音乐",
       "time": "4.00",
-      "src": "http://yinyueshiting.baidu.com/data2/music/42783748/42783748.mp3?xcode=d702f6a952c356e6bd5cc648288db746"
+      "src": "/static/audio/海阔天空.mp3"
     }]
   }
 }
